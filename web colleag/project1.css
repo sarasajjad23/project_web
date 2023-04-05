@@ -1,0 +1,79 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    box-sizing: border-box;
+    }
+
+  body{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    height: 100vh;
+    background-image: url(./photo_2022-12-14_21-42-29.jpg);
+     background-size: cover; 
+     background-repeat: no-repeat;  
+     height: 100vh;
+  }
+  form{
+    margin-top: 50px;
+    text-align: center;
+  }
+  input{
+    border-radius: 25px 25px 25px 25px;
+    display: block;
+    width: 350px;
+    height: 40px;
+    margin: 20px;
+    border: none;
+    outline: none;
+    font-size: 20px;
+    border-bottom: 1px solid black;
+    background: transparent;
+    color: rgb(10, 10, 10);
+  }
+button{
+    width: 350px;
+    height: 40px;
+    font-size: 20px;
+    background-color: blue;
+    border: none;
+    color: white;
+    margin-top: 20px;
+}
+form h1{
+    margin-bottom: 30px;
+}
+ul{
+margin-top: 10px !important;
+    height: 33px;
+    width: 475px;
+    float: right;
+    padding: 0px;
+    margin-right: 545px;}
+    a {
+      text-decoration-line: none;
+      color: white;
+  }
+  
+  
+  a:hover {
+      color: rgb(25, 123, 214);
+      text-decoration-line: underline;
+      color: black;
+  }
+  li {
+    
+    display: inline-block;
+    margin: 0 10px;
+    font-family: Tahoma;
+
+
+}
+h1 {
+  text-align: center;
+  width: 1124px;
+  margin: auto;
+  padding: 30px;
+  font-style: initial;
+}
