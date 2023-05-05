@@ -1,0 +1,106 @@
+body{
+    direction: rtl;
+    width: 1352;
+    height: 760px;
+    background-image: url(./img/doctors.jpg) !important;
+    background-attachment: fixed;
+
+    float: left;
+}
+
+a {
+    text-decoration-line: none !important;
+    color: #0c4266 !important;
+}
+
+.border{
+    height: 4px !important;
+    width: 550px !important;
+    background-color: #0c4266;
+    float: right;
+    margin-top: 100px;
+    margin-right: -198px;
+}
+
+.logo{
+    width: 230px !important;
+    height: 150px;
+    float: right;
+    margin-top: -60px;}
+
+a:hover {
+    text-decoration-line: none !important;
+    color: blue !important;
+}
+
+.header ul li {
+    display: inline-block !important;
+    margin: 0 15px;
+    font-family: Tahoma ;
+}
+.header{
+    width: 40%;
+    margin-right: 843px;
+    margin-top: 16px;
+}
+
+img
+{
+    width: 30%;
+    height: 167px;
+    float: left;
+    margin-top: -103px;
+    border-radius: 90px;
+}
+
+.row{
+    height: 535px !important;
+}
+
+h3{
+    padding-top:50px ;
+    margin-left: 5px;
+}
+
+
+.list-group{
+    width: 55% !important;
+    height: 100%;
+    float: right;
+    margin-right:-26px;
+     display: inline-block;
+
+}
+.list-group ul a li{
+    width: 100%;
+    height: 150px;
+    border-radius: 90px 0px 0px 90px;
+    background-color: #0c4266;
+    color: #fff !important;
+    margin-top: 30px;
+    padding-right: 50px;
+
+}
+
+.list-group ul{
+    width: 100%;
+}
+.logo img{
+    width: 98%;
+    height: 100%;
+    margin-top: 41px;
+}
+.mn{
+    text-align: center !important;
+    float: right;
+    width: 44% !important;
+    height: 100%;
+}
+
+h1{
+    color: #0c4266 !important;
+    padding-top: 150px;
+    width: 325px;
+    margin-right: 115px;
+    font-size: 3.5rem !important;
+}

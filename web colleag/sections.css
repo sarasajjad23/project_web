@@ -1,0 +1,141 @@
+body{
+    background-image : url(./img/homepage.png) !important;
+    background-attachment: fixed;
+    height: 862px;
+}
+
+a {
+    text-decoration-line: none !important;
+    color: #0c4266 !important;
+}
+
+
+a:hover {
+    text-decoration-line: none !important;
+    color: rgb(255, 255, 255) !important;
+}
+
+ul li {
+    display: inline-block !important;
+    margin: 0 20px;
+    font-family: Tahoma ;
+}
+.header{
+    width: 40%;
+    height: 70px;
+    margin-right: 843px;
+    margin-top: 16px;
+}
+.mnn{
+    border-radius: 302px;
+    background-color: #0c4266;
+    width: 601px;
+    height: 520px;
+    margin-left: -9px;
+}
+
+.titale img{
+    width: 88px;
+    height: 83px; 
+    background-color: #0c4266;
+    border-radius: 86px;
+    /* margin-top: 602px; */
+
+}
+.ss{
+    border:#0c4266 7px solid;
+    width: 601px;
+    height: 610px;
+    border-radius: 200px 295px 295px 200px;
+    margin-left: -141px;
+    padding-left: 125px;
+
+}
+.mn{
+    
+    border-radius: 302px;
+    background-color:#8499a7;
+    width: 608px;
+    height: 551px;
+    margin-left: -280px;
+    margin-top: 20px;
+    padding-top: 15px;
+}
+
+.sec{
+    height: 554px;
+    width: 1016px;
+    float: right;
+    margin-top: -611px;
+}
+
+.titale
+{
+width: 100%;
+height: 505px;
+text-align: center;
+margin-top:25px;}
+
+h1{
+letter-spacing: 2px;
+font-size: 25pt;
+color: #0c4266 !important;
+}
+
+.main{
+    width: 1345px;
+    height: 425px;
+    /* margin-top: 20px; */
+
+}
+.main a{
+    color: #0c4266 !important;}
+
+
+.line ul li{
+    height: 60px;
+    width: 70%;
+    margin: 30px 60px;
+    padding-top:10px ;
+    text-align: center;
+    border: #fff solid 2px;
+    border-radius: 25px;
+    background: #fff;
+
+}
+
+.line ul{
+    margin-top: 50px;
+}
+.border{
+    height: 4px !important;
+    width: 550px !important;
+    background-color: #0c4266;
+    margin-left: 799px;
+    margin-top: 33px;}
+
+.logo{
+    width: 200px !important;
+    height: 157px;
+    margin-left: 1090px;
+    margin-top: 35px !important;
+
+}
+
+
+.logo img{
+    width: 98%;
+    height: 100%;
+
+
+    
+
+}
+
+h3{
+    color: #0c4266 !important;
+
+}
+.titale ul{
+    width: 600px;
+}

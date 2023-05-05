@@ -1,0 +1,82 @@
+body{
+    direction: rtl;
+    width: 100%;
+    height: 5 35px;
+    background-image: url(./img/sign_up.png);
+    background-attachment: fixed;
+    color: #0c4266 !important;
+    float: left;
+}
+.border{
+    height: 9px !important;
+    width: 550px !important;
+    color: #0c4266 !important;
+    background-color: #0c4266;
+}
+
+.logo{
+    width: 255px !important;
+    height: 123px;
+    margin-top: 503px;
+    margin-right: 90px;
+}
+.logo img{
+    width: 98%;
+    height: 100%;
+
+}
+
+.header ul a {
+    text-decoration-line: none !important;
+    color: #0c4266 !important;
+}
+
+
+a:hover {
+    text-decoration-line: none !important;
+    color: blue !important;
+}
+
+.header ul li {
+    display: inline-block !important;
+    margin: 0 15px;
+    font-family: Tahoma ;
+}
+.header{
+    width: 40%;
+    margin-right: 843px;
+    margin-top: 16px;
+}
+
+
+.image{
+    height: 70%;
+    width: 40%;
+    padding-right: 170px;
+    float: right;
+}
+
+img{
+    width: 360px;
+    border-radius: 100px;
+    height: 400px;
+    margin-right: -100px;
+}
+
+.tester{
+    margin-right: 30px;
+    width: 51.99%;
+    float: right;
+    text-align: center;
+    background-color: #0c4266;
+}
+h4{
+    color: #ffffff !important;
+}
+h3{
+    color: #ffffff !important;
+    width: 647px;
+}
+h1{
+    color: #ffffff !important;
+}

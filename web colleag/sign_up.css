@@ -1,0 +1,108 @@
+body{
+    background-image: url(./img/design.jpg) ;
+    background-attachment: fixed;
+    height: 675px;
+    width: 1336px !important;
+}
+
+a {
+    text-decoration-line: none !important;
+    color: #0c4266 !important;
+}
+
+
+a:hover {
+    text-decoration-line: none !important;
+    color: blue !important;
+}
+
+.header ul li {
+    display: inline-block !important;
+    margin: 0 20px;
+    font-family: Tahoma ;
+}
+
+.border{
+    float: right;
+    height: 4px !important;
+    width: 550px !important;
+    margin-right: -175px !important;
+    background-color: #0c4266;
+}
+
+img
+{
+    width: 98%;
+    height: 100%;
+    
+}
+
+.logo{
+    float: right;
+    width: 186px !important;
+    height: 130px;
+    margin-top: -103px !important;
+    margin-right: -13px;
+}
+
+.header{
+    width: 40%;
+    margin-right: 843px;
+    margin-top: 16px;
+}
+
+.footer {
+    text-align: center;
+    margin-top: -37px;
+}
+
+h2{
+    letter-spacing: 5px;
+    font-family:monospace;
+}
+
+h3{
+    color: #0c4266 !important;
+    font-size: 4rem;
+    letter-spacing: 3px;
+}
+
+input{
+    width: 300px;
+    height: 30px;
+    text-align: center;
+    border-radius: 25px;
+    background-color: #0c4266c7 ;
+    font-family: monosoace;
+    border-color: #0c4266c7;
+    margin-top: -20 !important;
+}
+
+select {
+    width: 300px;
+    height: 40px;
+    margin-bottom: 20px;
+    border-radius: 25px;
+    background-color: #0c4266c7 ;
+    text-align: center !important;
+    margin-left: 10px;
+    background-color: #0c4266c7;
+    color: #9e9e9e;
+}
+
+button {
+    width: 175px;
+    background-color:#0c4266c7;
+    color: #fdfdfd !important;
+    padding: 10px 20px;
+    
+    border-radius: 25px !important;
+    cursor: pointer;
+    margin-top: 13px !important;
+}
+
+label{
+    text-align: center;
+    width: 310px;
+    height: 45px;
+}
